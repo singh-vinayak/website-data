@@ -1,0 +1,58 @@
+[
+    {
+        "name":"The React Movie App",
+        "description":"Using TMDB RESTful API, get information of your favourite movies or television shows. Renders all data according to user input in a card-based manner.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-react-movie-app12-herokuapp-2021-11-26-20_05_35.png",
+        "url":"https://github.com/vinayak-singh5302/react-movie-search",
+        "tech":"HTML, CSS, ReactJS"
+    },
+    {
+        "name":"30 Days of Google Cloud- IIIT Ranchi",
+        "description":"Created to show the progress of students participated in the 30 Days Of Google Cloud program from IIIT Ranchi. Uses ReactJS and Material UI.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-gdsc-iiit-ranchi-github-io-30DaysOfGCloud-progress-progress-2021-11-26-20_08_45.png",
+        "url":"https://gdsc-iiit-ranchi.github.io/30DaysOfGCloud-progress/",
+        "tech":"HTML, CSS, ReactJS (MUI for material ui based layout)"
+    },
+    {
+        "name":"Github Users App",
+        "description":"Used Github's RESTful API to get account information of any github user based on user input a",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-vinayak-singh5302-github-io-github-users-2021-11-26-20_05_02.png",
+        "url":"https://vinayak-singh5302.github.io/github-users/",
+        "tech":"HTML, CSS, JavaScript, Bootstrap 4"
+    },
+    {
+        "name":"Nokia 3310 based Snake",
+        "description":"A small game that resembles the famous game of Snake found on early Nokia devices. Used CSS to design everything and based on user's keystrokes, eat apples without colliding into the walls or into yourself.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-vinayak-singh5302-github-io-Nokia3310-Snake-2021-11-26-20_04_00.png",
+        "url":"https://vinayak-singh5302.github.io/Nokia3310-Snake/",
+        "tech":"HTML, CSS, JavaScript"
+    },
+    {
+        "name":"Pac-Man",
+        "description":"Used Vanilla JavaScript to design the retro game of Pac Man. Eat all the dots without getting eaten by the 4 ghosts that spawn in the middle of the maze. The game ends when the user gets maximum points , or if he loses.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-vinayak-singh5302-github-io-pac-man-2021-11-26-19_41_52.png",
+        "url":"https://vinayak-singh5302.github.io/pac-man/",
+        "tech":"HTML, CSS, JavaScript"
+    },
+    {
+        "name":"Netflix Cloned WebApp",
+        "description":"Practised concepts of Advanced ReactJS and its Hooks Library to create a working cloned application of Netflix. Hosted on Heroku with Firebase Intergration for user authentication and database to store account details, comments, posts and profile images as well. Added a personal loader to show loading process.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-clonenetflix12-herokuapp-browse-2021-11-26-20_06_08.png",
+        "url":"https://clonenetflix12.herokuapp.com/",
+        "tech":"HTML, CSS, ReactJS, Firebase for Auth and Cloud Firestore for data storage"
+    },
+    {
+        "name":"Instagram Cloned WebApp",
+        "description":"Practised concepts of Advanced ReactJS and its Hooks Library to create a working cloned application of Instagram. Hosted on Heroku with Firebase Intergration for user authentication and database to store account details, comments, posts and profile images as well. Used the skeleton package to create loading skeletons instead of a loader. Used the tailwind CSS framework for designing everything.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-cloneinstagram12-herokuapp-login-2021-11-26-20_08_11.png",
+        "url":"https://cloneinstagram12.herokuapp.com/",
+        "tech":"HTML, CSS, ReactJS, Firebase for Auth and Cloud Firestore for data storage, TailWind CSS"
+    },
+    {
+        "name":"The Dice Game",
+        "description":"A 1v1 dice game where players roll a die alternatively and whoever gets a score greater than or equal to 20 wins.",
+        "img_src":"https://raw.githubusercontent.com/vinayak-singh5302/myPortfolio/master/public/img/full-page/screencapture-vinayak-singh5302-github-io-Dice-Game-2021-11-26-20_04_33.png",
+        "url":"https://vinayak-singh5302.github.io/Dice-Game/",
+        "tech":"HTML, CSS, JavaScript"
+    }
+]
